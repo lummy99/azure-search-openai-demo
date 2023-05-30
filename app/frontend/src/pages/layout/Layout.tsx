@@ -38,7 +38,7 @@ const Layout = () => {
                             </li>
                         </ul>
                     </nav>
-                    <h4 className={styles.headerRightText}>Brookfield's Data + Cognitive Search</h4>
+                    <h4 className={styles.headerRightText}>Brookfield Data + Cognitive Search</h4>
                 </div>
             </header>
 
