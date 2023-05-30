@@ -25,11 +25,10 @@ const Layout = () => {
                                 </NavLink>
                             </li>
                             <li className={styles.headerNavLeftMargin}>
-                                <a href="https://aka.ms/entgptsearch" target={"_blank"} title="Github repository link">
-                                    <img
-                                        src={github}
-                                        alt="Github logo"
-                                        aria-label="Link to github repository"
+                                <a href="https://https://www.brookfield.com/" target={"_blank"} title="Brookfield's website">
+                                    <img src="assets/logo.png"
+                                        alt="Brookfield logo"
+                                        aria-label="Link to Brookfield's website"
                                         width="20px"
                                         height="20px"
                                         className={styles.githubLogo}
